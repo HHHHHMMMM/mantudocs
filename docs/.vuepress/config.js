@@ -31,6 +31,6 @@ module.exports = {
         {
             componentsDir:  './components'
         }
-    ]
+    ,'@vuepress/back-to-top','@vuepress/nprogress']
 
 }

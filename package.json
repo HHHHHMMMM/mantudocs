@@ -11,6 +11,8 @@
   "author": "sunhm3",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
     "@vuepress/plugin-register-components": "^1.8.2",
     "vuepress": "^1.8.2"
   }
