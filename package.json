@@ -11,6 +11,7 @@
   "author": "sunhm3",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-register-components": "^1.8.2",
     "vuepress": "^1.8.2"
   }
 }
