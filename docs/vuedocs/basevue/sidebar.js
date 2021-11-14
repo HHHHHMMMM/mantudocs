@@ -26,6 +26,9 @@ module.exports = [
 		collapsable: true,
 		children:[
 		  '/vuedocs/advancevue/组件基础',
+		  '/vuedocs/advancevue/分析vue脚手架结构',
+		  '/vuedocs/advancevue/ref属性',
+		  '/vuedocs/advancevue/props属性',
 		  
 		]
 	  },
