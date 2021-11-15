@@ -29,7 +29,10 @@ module.exports = [
 		  '/vuedocs/advancevue/分析vue脚手架结构',
 		  '/vuedocs/advancevue/ref属性',
 		  '/vuedocs/advancevue/props属性',
-		  
+		  '/vuedocs/advancevue/mixin混入',
+		  '/vuedocs/advancevue/vue插件',
+		  '/vuedocs/advancevue/Scoped样式',
+		 
 		]
 	  },
 ]
