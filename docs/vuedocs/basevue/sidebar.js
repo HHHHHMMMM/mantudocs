@@ -32,6 +32,7 @@ module.exports = [
 		  '/vuedocs/advancevue/mixin混入',
 		  '/vuedocs/advancevue/vue插件',
 		  '/vuedocs/advancevue/Scoped样式',
+		  '/vuedocs/advancevue/组件自定义事件',
 		 
 		]
 	  },
