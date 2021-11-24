@@ -65,6 +65,8 @@ create database xxxxx default charset utf8 collate utf8_general_ci;
 create user '用户名'@'可登陆范围'  indentified by 'password'
 --赋予用户权限
 grant all privileges on 库名.* to '用户名'@'可登陆范围'
+--刷新权限
+flush privileges;
 ```
 
 其中，可登陆范围，一般设置为`%`，则**默认任何ip都可以登陆**，生产环境这样配置是**非常不安全**的，但作为备库（开发库），可以免去外网ip变化之后无法登陆库。
