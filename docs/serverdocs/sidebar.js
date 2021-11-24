@@ -13,6 +13,7 @@ module.exports = [
 		  '/serverdocs/docs/docker安装部署nginx',
 		  '/serverdocs/docs/docker配置安装redis',
 		  '/serverdocs/docs/docker部署nacos',
+		 '/serverdocs/docs/docker 部署mysql服务器'
 			]
 	  },
 ]
